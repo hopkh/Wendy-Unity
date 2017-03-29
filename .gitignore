@@ -29,3 +29,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Library
+/*.csproj
+/*.sln
+/*.suo
